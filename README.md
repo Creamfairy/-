@@ -14,3 +14,10 @@
 
   对图像添加运动模糊和高斯噪声，然后使用维纳滤波进行图像复原，维纳滤波分信噪比未知和信噪比已知两种情况。运行结果如下：
   ![image](https://github.com/Creamfairy/homework/assets/102712796/f0ceb5b8-97bf-426e-8b6e-bb6746d27ae5)
+
+4.DPCM代码：
+
+  使用DPCM编码，对灰度图片进行编码和解码，比较不同量化器（1-bit, 2-bit, 4-bit, 8-bit）的重建图像区别，并计算了重建图像的PSNR和SSIM值。运行结果如下：
+  ![image](https://github.com/Creamfairy/homework/assets/102712796/36d35c9c-d56f-4e97-a895-d25c5d9f07cd)
+  ![image](https://github.com/Creamfairy/homework/assets/102712796/0f7b8252-752c-448b-8af2-07e8395ae2d9)
+
