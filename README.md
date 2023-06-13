@@ -21,3 +21,7 @@
   ![image](https://github.com/Creamfairy/homework/assets/102712796/36d35c9c-d56f-4e97-a895-d25c5d9f07cd)
   ![image](https://github.com/Creamfairy/homework/assets/102712796/0f7b8252-752c-448b-8af2-07e8395ae2d9)
 
+5.Watershed代码：
+
+  使用分水岭算法对图像进行了分割。运行结果如下：
+  ![image](https://github.com/Creamfairy/homework/assets/102712796/33998826-1380-4b09-9ba9-eefc7c742572)
