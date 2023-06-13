@@ -23,5 +23,5 @@
 
 5.Watershed代码：
 
-  使用分水岭算法对图像进行分割。运行结果如下：
+  使用分水岭算法对图像进行了分割。运行结果如下：
   ![image](https://github.com/Creamfairy/homework/assets/102712796/33998826-1380-4b09-9ba9-eefc7c742572)
